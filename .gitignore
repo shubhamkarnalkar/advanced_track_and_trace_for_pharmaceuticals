@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+advanced_track_and_trace_for_pharmaceuticals/docs/current
+node_modules/

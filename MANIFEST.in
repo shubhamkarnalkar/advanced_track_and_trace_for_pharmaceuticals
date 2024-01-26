@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.css
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.csv
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.html
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.ico
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.js
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.json
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.md
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.png
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.py
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.svg
+recursive-include advanced_track_and_trace_for_pharmaceuticals *.txt
+recursive-exclude advanced_track_and_trace_for_pharmaceuticals *.pyc
